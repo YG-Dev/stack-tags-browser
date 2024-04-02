@@ -2,6 +2,12 @@
 
 This is the Single Page Application that allows user to fetch and display Stack Overflow tags.
 
+## API
+
+This project uses StackExchange tags API.\
+Check out the [documentation](https://api.stackexchange.com/docs/tags).\
+Read more about [error handling](https://api.stackexchange.com/docs/error-handling) as well.
+
 ## Technologies used
 
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with TypeScript enabled.
